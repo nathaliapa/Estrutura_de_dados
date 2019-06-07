@@ -1,4 +1,3 @@
-
 package estruturadedados;
 
 import static java.lang.System.in;
@@ -28,6 +27,8 @@ public static void main(){
 
     System.out.println("  " + minhaHash);
 
+
+   System.out.println("text");
 
 }
     
